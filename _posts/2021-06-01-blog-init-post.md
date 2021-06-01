@@ -2,7 +2,9 @@
 title: "Hello World!"
 excerpt: ""
 categories:
-    - [Daily]
+    - Daily Notes
+tags:
+    - 잡담
 date: 2021-06-01
 last_modified_at: 2021-06-01
 ---
