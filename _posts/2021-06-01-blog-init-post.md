@@ -1,6 +1,6 @@
 ---
 title: "Hello World!"
-excerpt: "md  "
+excerpt: ""
 categories:
     - [Daily]
 date: 2021-06-01
